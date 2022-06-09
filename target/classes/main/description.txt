@@ -1,0 +1,22 @@
+controller: contains the servlets
+dao: contains the logic for database operation
+model: contains the POJO (Plain Old Java Object).
+util : contains the class for initiating database connection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
